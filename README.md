@@ -1,6 +1,6 @@
 
 # Word-filler-with-sql
-
+This is a CRUD app that can also fill word files with data from MySQL and that helps you to fill word documents faster
 
 
 
