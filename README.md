@@ -5,6 +5,7 @@ This is a CRUD app that can also fill word files with data from MySQL and that h
 
 
 ## Deployment
+Before all you need to install MySQL Server and Workbench
 
 Install with pip
 
